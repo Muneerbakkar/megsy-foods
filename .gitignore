@@ -1,3 +1,7 @@
+# Local environment variables
+.env
+.env.*    # ignore .env.development, .env.production, etc.
+
 # Logs
 logs
 *.log
